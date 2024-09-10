@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav_list{
+    width: 100%;
+    margin-right: 50px;
+    gap: 25px;
+}
+
+.in{
+    color: rgb(129, 68, 195);
+}
+
+.silde_div{
+   
+    height: 350px;
+ 
+}
+.button{
+    background-color: #f07a30;
+    outline: none ;
+    border: none;
+}
+
+.section-2{
+    
+    background-color: #f1eef5;
+    
+
+}
+  .nav-link:hover{
+    background-color: rgb(222, 233, 233);
+    transition: .8s ease-in-out;
+    border-radius:50px ;
+  }
+.portfolio{
+    background-color: #f1eef5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
+}
+.image{
+   width: 30px;
+   
+  
+}
+.skill{
+    height:680px ;
+}
+
+
+    
+
+
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    outline: none;
+    
+   
+}
+
+.card:hover{
+    background-color: #cfcad6 ;
+    transition:  0.3s ease-in-out ;
+}
+
+.client{
+    width: 350px;
+}
+
+
+
+.card-width{
+    width: 40%;
+}
+.image-grid img {
+    width: 100%;
+    height: auto;
+  }
+  .grid-item {
+    padding: 10px;
+  }
+
+
+
+  .image-grid2 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  .grid-item {
+    padding: 5px;
+  }
+
+  .portfolio-nav a:hover{
+    
+  }
